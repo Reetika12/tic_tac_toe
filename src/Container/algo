@@ -1,0 +1,7 @@
+create a 2 d array initially initilaise with null;
+add event listener to each block
+add two players and put their chance by keeping the flag
+make a function to check the status of game
+write three logic to check the status of game
+like horizontal, vertical,and diagonal part
+if any condition match we will return true for game and that will be winner
